@@ -268,3 +268,5 @@
   .additional-info__languages-item {
     color: var(--secondary-text-color);
   }
+  /*SVG style*/
+  svg { margin: 0 auto; width: 50px; height: auto; }
